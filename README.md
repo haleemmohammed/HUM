@@ -1,2 +1,2 @@
 # HUM
-This is a test repository for MONU
+This is a test repository not for use
