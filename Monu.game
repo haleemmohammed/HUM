@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Black</key>
+	<string>Computer</string>
+	<key>BlackType</key>
+	<string>program</string>
+	<key>City</key>
+	<string>?</string>
+	<key>Country</key>
+	<string>?</string>
+	<key>Event</key>
+	<string>Casual Game</string>
+	<key>Holding</key>
+	<string>[QBNRPP] [QBBNRRPPPPPPP]</string>
+	<key>MBCAlternateVoice</key>
+	<string>com.apple.speech.synthesis.voice.Vicki</string>
+	<key>MBCBoardAngle</key>
+	<real>60</real>
+	<key>MBCBoardSpin</key>
+	<real>180</real>
+	<key>MBCBoardStyle</key>
+	<string>Wood</string>
+	<key>MBCListenForMoves</key>
+	<true/>
+	<key>MBCMinSearchTime</key>
+	<integer>1</integer>
+	<key>MBCPieceStyle</key>
+	<string>Wood</string>
+	<key>MBCSearchTime</key>
+	<integer>1</integer>
+	<key>MBCShowGameLog</key>
+	<false/>
+	<key>MBCSpeakHumanMoves</key>
+	<false/>
+	<key>MBCSpeakMoves</key>
+	<true/>
+	<key>Moves</key>
+	<string>e2e4
+e7e6
+b2b3
+d7d5
+f1b5
+c7c6
+b5d3
+d5e4
+d3e4
+g8f6
+b1c3
+f6e4
+c3e4
+d8d4
+d1e2
+d4a1
+d2d3
+a1c1
+e2d1
+f8b4
+c2c3
+b4c3
+e4d2
+c3d2
+e1e2
+c1d1
+e2d1
+d2b4
+g2g4
+e8g8
+g1f3
+c6c5
+h1e1
+b4e1
+d1e1
+b8c6
+b3b4
+c6b4
+a2a4
+b4d3
+e1d2
+d3f2
+g4g5
+f8d8
+d2e2
+f2h3
+a4a5
+b7b5
+a5a6
+c8a6
+f3e5
+b5b4
+e2e3
+b4b3
+g5g6
+b3b2
+g6f7
+g8h8
+e5d7
+b2b1q
+f7f8Q
+d8f8
+d7f8
+b1d3
+</string>
+	<key>Position</key>
+	<string>r4N1k/p5pp/b3p3/2p5/8/3qK2n/7P/8 w - - 1 33</string>
+	<key>Result</key>
+	<string>0-1</string>
+	<key>StartDate</key>
+	<string>2018.01.05</string>
+	<key>StartTime</key>
+	<string>18:53:01</string>
+	<key>Variant</key>
+	<string>normal</string>
+	<key>White</key>
+	<string>Mohammed</string>
+	<key>WhiteType</key>
+	<string>human</string>
+</dict>
+</plist>
