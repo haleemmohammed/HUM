@@ -28,11 +28,12 @@ sudo rpm --import https://production.packages.cloudpassage.com/cloudpassage.pack
 # update yum repositories
 sudo yum check-update > /dev/null
 
-# install the agent
+mport CloudPassage public key
 sudo yum -y install cphalo
 
-# configure agent key
+mport CloudPassage public key
 sudo /opt/cloudpassage/bin/configure --agent-key=a62e03b2f893711c6161bc9f8c5d3e48 --grid=https://grid.cloudpassage.com/grid
 
 # start the agent for the first time
+
 sudo /etc/init.d/cphalod start
